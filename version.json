@@ -3,8 +3,8 @@
     "installer_url": "https://github.com/BlueFireCryptic/AGTRadarVersion/releases/download/v0.0.0/AGT_Setup_v0.0.0.exe",
     "sha256": "",
     "maintenance": {
-        "active": true,
-        "message": "Scheduled maintenance in progress. The dashboard will be back online shortly. Thank you for your patience.",
+        "active": false,
+        "message": "",
         "until": ""
     }
 }
