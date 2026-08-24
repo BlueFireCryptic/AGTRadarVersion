@@ -1,7 +1,7 @@
 {
-    "version": "0.0.0",
-    "installer_url": "https://github.com/BlueFireCryptic/AGTRadarVersion/releases/download/v0.0.0/AGT_Setup_v0.0.0.exe",
-    "sha256": "",
+    "version": "0.0.1",
+    "installer_url": "https://github.com/BlueFireCryptic/AGTRadarVersion/releases/download/v0.0.1/AGT_Setup_v0.0.1.exe",
+    "sha256": "afd921ad537a4a7311a720b00978baefc8fcb26ba8558058b6bd605ada6bd995",
     "maintenance": {
         "active": false,
         "message": "",
