@@ -1,7 +1,7 @@
 {
-    "version": "0.0.12",
-    "installer_url": "https://github.com/BlueFireCryptic/AGTRadarVersion/releases/download/v0.0.12/Alita_International_Setup_v0.0.12.exe",
-    "sha256": "5e877b08efb37b466306256a3d009da8a46b49db33ad5b1fdd111bce94b07bcc",
+    "version": "0.0.13",
+    "installer_url": "https://github.com/BlueFireCryptic/AGTRadarVersion/releases/download/v0.0.13/Alita_International_Setup_v0.0.13.exe",
+    "sha256": "d44f99e389aee6d21dc8c7e94ce9bbb8eaf5820d5f242cb8f3e0df2747d89dc6",
     "maintenance": {
         "active": false,
         "message": "",
